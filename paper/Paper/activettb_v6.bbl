@@ -1,0 +1,118 @@
+\begin{thebibliography}{19}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Arkes et~al.(1986)Arkes, Dawes, \& Christensen}]{arkes1986factors}
+Arkes, H.~R., Dawes, R.~M., \& Christensen, C. (1986).
+\newblock Factors influencing the use of a decision rule in a probabilistic
+  task.
+\newblock {\em Organizational Behavior and Human Decision Processes\/}, {\em
+  37\/}(1), 93--110.
+
+\bibitem[{Chaloner \& Larntz(1989)}]{chaloner1989optimal}
+Chaloner, K., \& Larntz, K. (1989).
+\newblock Optimal bayesian design applied to logistic regression experiments.
+\newblock {\em Journal of Statistical Planning and Inference\/}, {\em 21\/}(2),
+  191--208.
+
+\bibitem[{Chater et~al.(2003)Chater, Oaksford, Nakisa, \&
+  Redington}]{chater2003fast}
+Chater, N., Oaksford, M., Nakisa, R., \& Redington, M. (2003).
+\newblock Fast, frugal, and rational: How rational norms explain behavior.
+\newblock {\em Organizational behavior and human decision processes\/}, {\em
+  90\/}(1), 63--86.
+
+\bibitem[{Czerlinski et~al.(1999)Czerlinski, Gigerenzer, \&
+  Goldstein}]{czerlinski1999good}
+Czerlinski, J., Gigerenzer, G., \& Goldstein, D.~G. (1999).
+\newblock How good are simple heuristics?
+
+\bibitem[{Gigerenzer \& Goldstein(1996)}]{gigerenzer1996reasoning}
+Gigerenzer, G., \& Goldstein, D.~G. (1996).
+\newblock Reasoning the fast and frugal way: models of bounded rationality.
+\newblock {\em Psychological review\/}, {\em 103\/}(4), 650.
+
+\bibitem[{Gigerenzer \& Goldstein(1999)}]{gigerenzer1999betting}
+Gigerenzer, G., \& Goldstein, D.~G. (1999).
+\newblock Betting on one good reason: take the best and its relatives.
+\newblock {\em Simple Heuristics that Make Us Smart. Oxford University Press,
+  New York\/}, (pp. 75--95).
+
+\bibitem[{Golovin et~al.(2010)Golovin, Krause, \& Ray}]{golovin2010near}
+Golovin, D., Krause, A., \& Ray, D. (2010).
+\newblock Near-optimal bayesian active learning with noisy observations.
+\newblock In {\em Advances in Neural Information Processing Systems\/}, (pp.
+  766--774).
+
+\bibitem[{Griffiths \& Austerweil(2009)}]{griffiths2009analyzing}
+Griffiths, T.~L., \& Austerweil, J.~L. (2009).
+\newblock Analyzing human feature learning as nonparametric bayesian inference.
+\newblock In {\em Advances in neural information processing systems\/}, (pp.
+  97--104).
+
+\bibitem[{Knox et~al.(2011)Knox, Otto, Stone, \& Love}]{knox2011nature}
+Knox, W.~B., Otto, A.~R., Stone, P., \& Love, B.~C. (2011).
+\newblock The nature of belief-directed exploratory choice in human
+  decision-making.
+\newblock {\em Frontiers in psychology\/}, {\em 2\/}.
+
+\bibitem[{Marewski et~al.(2010)Marewski, Gaissmaier, \&
+  Gigerenzer}]{marewski2010good}
+Marewski, J.~N., Gaissmaier, W., \& Gigerenzer, G. (2010).
+\newblock Good judgments do not require complex cognition.
+\newblock {\em Cognitive processing\/}, {\em 11\/}(2), 103--121.
+
+\bibitem[{Marewski \& Mehlhorn(2011)}]{marewski2011using}
+Marewski, J.~N., \& Mehlhorn, K. (2011).
+\newblock Using the act-r architecture to specify 39 quantitative process
+  models of decision making.
+\newblock {\em Judgment and Decision Making\/}, {\em 6\/}(6), 439--519.
+
+\bibitem[{Markant \& Gureckis(2012)}]{markant2012one}
+Markant, D., \& Gureckis, T.~M. (2012).
+\newblock One piece at a time: Learning complex rules through self-directed
+  sampling.
+\newblock In {\em Proceedings of the 34th Annual Conference of the Cognitive
+  Science Society. Austin, TX: Cognitive Science Society\/}.
+
+\bibitem[{Martignon \& Hoffrage(1999)}]{martignon1999does}
+Martignon, L., \& Hoffrage, U. (1999).
+\newblock Why does one-reason decision making work.
+\newblock {\em Simple heuristics that make us smart\/}, (pp. 119--140).
+
+\bibitem[{Meder \& Nelson(2012)}]{meder2012information}
+Meder, B., \& Nelson, J.~D. (2012).
+\newblock Information search with situation-specific reward functions.
+\newblock {\em Judgment and Decision Making\/}, {\em 7\/}(2), 119--148.
+
+\bibitem[{Newell et~al.(2003)Newell, Weston, \& Shanks}]{newell2003empirical}
+Newell, B.~R., Weston, N.~J., \& Shanks, D.~R. (2003).
+\newblock Empirical tests of a fast-and-frugal heuristic: Not everyone
+  “takes-the-best”.
+\newblock {\em Organizational Behavior and Human Decision Processes\/}, {\em
+  91\/}(1), 82--96.
+
+\bibitem[{Payne et~al.(1993)Payne, Bettman, \& Johnson}]{payne1993adaptive}
+Payne, J.~W., Bettman, J.~R., \& Johnson, E.~J. (1993).
+\newblock {\em The adaptive decision maker\/}.
+\newblock Cambridge University Press.
+
+\bibitem[{Raiffa \& Schlaifer(1961)}]{raiffaapplied}
+Raiffa, H., \& Schlaifer, R. (1961).
+\newblock Applied statistical decision theory.
+\newblock {\em Division of Research, Harvard Business School, Boston, MA\/}.
+
+\bibitem[{Schulz et~al.(2014)Schulz, Speekenbrink, \&
+  Shanks}]{schulz2014predict}
+Schulz, E., Speekenbrink, M., \& Shanks, D.~R. (2014).
+\newblock Predict choice: A comparison of 21 mathematical models.
+\newblock Cognitive Science Society.
+
+\bibitem[{Todd \& Gigerenzer(2000)}]{todd2000precis}
+Todd, P.~M., \& Gigerenzer, G. (2000).
+\newblock Pr{\'e}cis of simple heuristics that make us smart.
+\newblock {\em Behavioral and brain sciences\/}, {\em 23\/}(05), 727--741.
+
+\end{thebibliography}
